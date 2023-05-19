@@ -1,8 +1,8 @@
+name: ECR Terraform Apply
+
 on:
   push:
     branches: master
-
-name: ecr terraform apply
 
 jobs:
   deploy:
