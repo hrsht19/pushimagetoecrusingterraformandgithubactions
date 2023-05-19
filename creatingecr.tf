@@ -1,3 +1,3 @@
 resource "aws_ecr_repository" "myecr" {
-  name                 = "ecr2"
+  name                 = "ecr3"
 }
